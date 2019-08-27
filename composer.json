@@ -1,9 +1,9 @@
 {
-    "name": "jsvrcek/ics",
+    "name": "pcomm/ics",
     "license": "MIT",
     "description": "abstraction layer for creating multi-byte safe RFC 5545 compliant .ics files",
     "keywords": ["ical", "calendar", "export", ".ics", "RFC 5545", "multi-byte safe"],
-    "homepage": "https://github.com/jasvrcek/ICS",
+    "homepage": "https://github.com/partnercomm/ICS",
     "authors":  [
         {
             "name": "Justin Svrcek",
