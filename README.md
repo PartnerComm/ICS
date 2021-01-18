@@ -3,6 +3,8 @@
 ICS
 ===
 
+PComm Version: Updated to require greater than PHP 7, tagged with version. We should look into using this package as is from the one we forked for easier maintanence.
+
 Object-oriented php library for creating (and eventually reading) .ics iCal files.
 
 * This project does not yet support all functionality of the .ics format.
